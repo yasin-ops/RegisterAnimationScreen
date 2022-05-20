@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">RegisterAnimationScreen</string>
+    <string name="register_donor">Register Donor</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_passwords">Enter Passwords</string>
+    <string name="forget_passwords">Forget Passwords</string>
+    <string name="log_in">Log in</string>
+    <string name="don_t_have_account">do not have account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="enter_confirm_passwords">Enter Confirm Passwords</string>
+    <string name="already_have_account">already have account</string>
+    <string name="enter_your_verify_email">Enter  verify Email</string>
+    <string name="enter_verify_email">  Verify Email</string>
+    <string name="enter_your_address">Enter Your Address</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="contact">Contact</string>
+    <string name="office_address">Office Address</string>
+    <string name="donor_name">Donor Name</string>
+    <string name="address">Address</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="edit_name">Edit Name</string>
+    <string name="edit_number">Edit Number</string>
+    <string name="edit_city_name">Edit City Name</string>
+    <string name="blood_info">Blood Info</string>
+    <string name="blood_type">Blood Type</string>
+    <string name="donner">Donner</string>
+    <string name="blood_is_a_body_fluid_in_humans_and_other_animals_that_delivers_necessary_substances_such_as_nutrients_and_oxygen_to_the_cells_and_transports_metabolic_waste_products_away_from_those_same_cells_in_vertebrates_it_is_composed_of_blood_cells_suspended_in_blood_plasma">Blood is a body fluid in humans and other animals that delivers necessary substances such as nutrients and oxygen to the cells and transports metabolic waste products away from those same cells. In vertebrates, it is composed of blood cells suspended in blood plasma</string>
+    <string name="there_are_4_main_blood_groups_types_of_blood_a_b_ab_and_o_your_blood_group_is_determined_by_the_genes_you_inherit_from_your_parents_each_group_can_be_either_rhd_positive_or_rhd_negative_which_means_in_total_there_are_8_blood_groups">There are 4 main blood groups (types of blood) – A, B, AB and O. Your blood group is determined by the genes you inherit from your parents. Each group can be either RhD positive or RhD negative, which means in total there are 8 blood groups</string>
+    <string name="weight_at_least_110_lbs_50_kg_blood_volume_collected_will_depend_mainly_on_you_body_weight_pulse_rate_between_60_and_100_beats_minute_with_regular_rhythm_blood_pressure_between_90_and_160_systolic_and_60_and_100_diastolic">Weight: At least 110 lbs (50 kg). Blood volume collected will depend mainly on you body weight. Pulse rate: Between 60 and 100 beats/minute with regular rhythm. Blood pressure: Between 90 and 160 systolic and 60 and 100 diastolic</string>
+    <string name="profile_donnor">Profile Donnor</string>
+    <string name="detail_donnor">Detail Donnor</string>
+    <string name="remember_me">Remember me</string>
+
+
+</resources>
